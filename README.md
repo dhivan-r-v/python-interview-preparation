@@ -1,40 +1,65 @@
 # Python Interview Preparation
 
-This repository contains my Python learning journey and coding practice while preparing for Data Analyst and Data Scientist interviews.
+This repository contains my Python learning journey and hands-on coding practice while preparing for AI/ML and Data Science interviews.
 
 ## 📚 Topics Covered
 
-### Python Fundamentals
-- Variables
-- Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Strings
-- Membership Operators
-- Break & Continue
-- Rock Paper Scissors Project
-- Data Cleaning using Pandas
-- Advanced Data Analysis
-- Hands-on Practice Tasks
+- Python Fundamentals
+  - Variables
+  - Data Types
+  - Operators
+  - Conditional Statements
+  - Loops
+  - Strings
+  - Functions
+  - User Input
+  - Break & Continue
 
-### Data Structures
-- Lists
-- Tuples
-- Sets
-- Dictionaries
-- Common Operations
-- Practice Problems
+- Data Structures
+  - Lists
+  - Tuples
+  - Sets
+  - Dictionaries
 
-## 🛠 Tools Used
+- Object-Oriented Programming (OOP)
+  - Classes and Objects
+  - Constructors
+  - Inheritance
+  - Polymorphism
+  - Encapsulation
+  - Abstraction
+
+- Mini Projects
+  - Rock Paper Scissors Game
+
+## 🛠 Technologies Used
+
 - Python 3
 - Jupyter Notebook
 
+## 📂 Repository Structure
+
+```
+Chapter_1_Python_Fundamentals.ipynb
+Chapter_2_DataStructures.ipynb
+Chapter_5_OOP.ipynb
+README.md
+```
+
 ## 🎯 Objective
-To strengthen Python programming skills through hands-on coding exercises and interview-oriented practice.
 
+Strengthen Python programming skills through hands-on practice and build a solid foundation for Machine Learning and AI Engineer interviews.
 
+## 🚀 Future Additions
+
+- File Handling
+- Exception Handling
+- Modules & Packages
+- Decorators
+- Generators
+- Regular Expressions
+- Interview Coding Problems
 
 ## 👨‍💻 Author
+
 Dhivan
