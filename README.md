@@ -1,65 +1,88 @@
 # Python Interview Preparation
 
-This repository contains my Python learning journey and hands-on coding practice while preparing for AI/ML and Data Science interviews.
+This repository contains my Python practice while building a strong foundation for programming, data analysis, and machine learning.
 
-## 📚 Topics Covered
+I started with Python fundamentals and gradually moved into data structures, object-oriented programming, and NumPy.
 
-- Python Fundamentals
-  - Variables
-  - Data Types
-  - Operators
-  - Conditional Statements
-  - Loops
-  - Strings
-  - Functions
-  - User Input
-  - Break & Continue
+The notebooks contain hands-on examples, exercises, and concepts that I have worked through while learning.
 
-- Data Structures
-  - Lists
-  - Tuples
-  - Sets
-  - Dictionaries
+## Topics Covered
 
-- Object-Oriented Programming (OOP)
-  - Classes and Objects
-  - Constructors
-  - Inheritance
-  - Polymorphism
-  - Encapsulation
-  - Abstraction
+### 1. Python Fundamentals
 
-- Mini Projects
-  - Rock Paper Scissors Game
+- Variables and data types
+- Strings and string methods
+- `if`, `elif`, and `else`
+- `for` and `while` loops
+- `break` and `continue`
+- `in` and `not in`
+- User-defined functions
+- Functions with loops and conditions
+- Basic problem-solving
+- Rock Paper Scissors program
 
-## 🛠 Technologies Used
+### 2. Python Data Structures
 
-- Python 3
-- Jupyter Notebook
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Working with different data structures
+- Basic operations and manipulation
+- Choosing the appropriate data structure
 
-## 📂 Repository Structure
+### 3. Object-Oriented Programming
 
-```
-Chapter_1_Python_Fundamentals.ipynb
-Chapter_2_DataStructures.ipynb
-Chapter_5_OOP.ipynb
-README.md
-```
+- Classes and objects
+- Constructors
+- Methods
+- Attributes
+- Object-oriented programming concepts
+- Practical class-based examples
 
-## 🎯 Objective
+### 4. NumPy
 
-Strengthen Python programming skills through hands-on practice and build a solid foundation for Machine Learning and AI Engineer interviews.
+- Why NumPy is used
+- NumPy arrays
+- Python Lists vs NumPy Arrays
+- 1D, 2D and 3D arrays
+- Array dimensions and shape
+- `ndim`
+- `size`
+- `argmax`
+- `fill()`
+- `repeat()`
+- Data types
+- Type conversion
+- List to Array conversion
+- Array to List conversion
+- Element-wise operations
+- Vectorized operations
+- Reshaping arrays
+- Flattening arrays
+- Creating arrays using `arange()`, `linspace()`, `zeros()` and `ones()`
+- Random number generation
+- Random seed
+- Basic statistical operations
+- NumPy for numerical computation
+- NumPy as a foundation for Machine Learning and AI
 
-## 🚀 Future Additions
+## Repository Structure
 
-- File Handling
-- Exception Handling
-- Modules & Packages
-- Decorators
-- Generators
-- Regular Expressions
-- Interview Coding Problems
-
-## 👨‍💻 Author
-
-Dhivan
+```text
+python-interview-preparation/
+│
+├── 01_Python_Fundamentals/
+│   └── Python_Fundamentals_Practice.ipynb
+│
+├── 02_Data_Structures/
+│   └── Chapter_2_DataStructures.ipynb
+│
+├── 03_OOP/
+│   └── Chapter_5_OOP.ipynb
+│
+├── 04_NumPy/
+│   ├── NumPy_Why_and_AI_Foundation.ipynb
+│   └── NumPy_Properties_and_Operations.ipynb
+│
+└── README.md
